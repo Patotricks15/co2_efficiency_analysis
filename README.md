@@ -1,4 +1,4 @@
-# co2_efficiency_analysis
+# How much GDP per capita can a country generate for each kiloton of CO₂ spent?
 
 Medium article: https://patotricks15.medium.com/how-much-gdp-per-capita-can-a-country-generate-for-each-kiloton-of-co%E2%82%82-spent-a78f40949023
 
